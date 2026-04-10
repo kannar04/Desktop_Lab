@@ -1,0 +1,16 @@
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.exe.config
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form3.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form4.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form5.resources
+C:\Users\phong\OneDrive\lập trình\desktop\BTVN\Lab_2\Lab_2\obj\Debug\Lab_2.Form6.resources
